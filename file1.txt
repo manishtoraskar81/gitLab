@@ -1,2 +1,6 @@
 This is file1 created in master branch
-changed master content
+<<<<<<< HEAD
+#changed master content
+=======
+midified by feature branch
+>>>>>>> feature1
